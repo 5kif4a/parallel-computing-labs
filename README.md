@@ -7,8 +7,8 @@
 [Ссылка на скачивание](https://www.microsoft.com/en-us/download/details.aspx?id=57467)
 #### Установка проекта и среды для запуска скриптов
 ```
-git clone 
-cd 
+git clone https://github.com/5kif4a/parallel-computing-labs.git
+cd parallel-computing-labs
 py -m venv venv
 pip install -r requirements.txt
 ```
