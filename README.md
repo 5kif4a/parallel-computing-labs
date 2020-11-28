@@ -8,7 +8,7 @@
 #### Установка проекта и среды для запуска скриптов
 ```
 git clone https://github.com/5kif4a/parallel-computing-labs.git
-cd parallel-computing-labs
+cd parallel-computing-labs-main
 py -m venv venv
 pip install -r requirements.txt
 ```
